@@ -26,7 +26,6 @@ def read_image(filename, save_filename):
 
     # List for storing pixel information
     im_list = []
-
     for i in xrange(images):
 
         '''
